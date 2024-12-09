@@ -1,16 +1,22 @@
-# Hi there 👋
-![](https://media.licdn.com/dms/image/v2/D5616AQG0V_hgFBj1Ew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708843438757?e=1739404800&v=beta&t=QXvXKwqEvz2z8ZYw9mbw4V_UocG3VfyjBDPfEKWpCFs)
+<h1 align="center">Hi 👋, I'm K M Marziul Karim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marziulrafi&label=Profile%20views&color=0e75b6&style=flat" alt="marziulrafi" /> </p>
 
-Skills: JS / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marziulrafi" alt="marziulrafi" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/_marziul_" target="blank"><img src="https://img.shields.io/twitter/follow/_marziul_?logo=twitter&style=for-the-badge" alt="_marziul_" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_marziul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_marziul_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marziulkarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marziulkarim" height="30" width="40" /></a>
+<a href="https://fb.com/marziul.rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marziul.rafi" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marziulrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marziulkarim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marziul.rafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_marziul_)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marziulrafi)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marziulrafi&show_icons=true&locale=en&layout=compact" alt="marziulrafi" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marziulrafi&show_icons=true)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marziulrafi&" alt="marziulrafi" /></p>

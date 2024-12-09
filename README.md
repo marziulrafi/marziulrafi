@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm K M Marziul Karim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marziulrafi" alt="marziulrafi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_marziul_" target="blank"><img src="https://img.shields.io/twitter/follow/_marziul_?logo=twitter&style=for-the-badge" alt="_marziul_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

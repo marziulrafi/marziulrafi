@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*NgUtI3tYLhuq5Vy0.gif"  />
+<img align="right" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*NgUtI3tYLhuq5Vy0.gif"  />
 
 ###
 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm K M Marziul Karim</h1>
 <h3 align="center">from Dhaka, Bangladesh</h3>
 
-- 📫 How to reach me **km.marziul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

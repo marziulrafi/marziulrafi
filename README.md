@@ -18,6 +18,4 @@
 
 ![marziulrafi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marziulrafi&show_icons=true&locale=en" alt="marziulrafi" /></p>
-
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marziulrafi" alt="GitHub Streak" /></a>

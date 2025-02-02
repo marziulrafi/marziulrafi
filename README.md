@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm K M Marziul Karim</h1>
 <h3 align="center">from Dhaka, Bangladesh</h3>
 
-- 📫 How to reach me **km.marziul@gmail.com**
+- 📫 Reach me here **km.marziul@gmail.com**
 
 <img align="right" width="350" height="255" src="https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE"  />
 

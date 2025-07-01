@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
 
 <h1 align="center">Hi 👋 I'm K M Marziul Karim</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
 <h4 align="center">📍 Dhaka, Bangladesh</h4>
 
 ---

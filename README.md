@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 - 🌐 Developing a *Courier Website* using MERN Stack.
 - 💡 Learning advanced concepts of *Node.js* and *MongoDB*.
 - 👨‍💻 Actively contributing to *open-source* and personal projects.
-- 📧 Reach me here **marziulrafi@gmail.com**
+- 📧 Reach me here **km.marziul@gmail.com**
 
 ---
 

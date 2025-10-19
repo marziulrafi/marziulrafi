@@ -11,7 +11,7 @@
 I'm a passionate Full Stack Developer with a strong interest in building responsive web applications and solving real-world problems with technology.
 
 - 🚀 Currently exploring *Next.js* and server-side rendering.
-- 🌐 Developing a *Courier Website* using MERN Stack.
+- 🌐 Developing a *Remote Work Destination Finder* using MERN Stack.
 - 💡 Learning advanced concepts of *Node.js* and *MongoDB*.
 - 👨‍💻 Actively contributing to *open-source* and personal projects.
 - 📧 Reach me here **km.marziul@gmail.com**

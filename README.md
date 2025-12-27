@@ -70,4 +70,4 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 
 ![marziulrafi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marziulrafi" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=marziulrafi" alt="GitHub Streak" /></a>

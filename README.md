@@ -68,7 +68,9 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 
 ---
 
-![marziulrafi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi&theme=default&show_icons=true&hide_border=true&layout=compact)
+<!--![marziulrafi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi&theme=default&show_icons=true&hide_border=true&layout=compact) -->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marziulrafi&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marziulrafi)](https://git.io/streak-stats)
 

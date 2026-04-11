@@ -10,10 +10,10 @@
 
 I'm a passionate Full Stack Developer with a strong interest in building responsive web applications and solving real-world problems with technology.
 
-- 🚀 Currently exploring *Next.js* and server-side rendering.
+- 🚀 Deep diving into Next.js, Prisma, and PostgreSQL.
+- 🐳 Exploring Docker and containerized development.
 - 🌐 Developing a *Gaming Zone Management System* using MERN Stack.
-- 💡 Learning advanced concepts of *Node.js* and *MongoDB*.
-- 👨‍💻 Actively contributing to *open-source* and personal projects.
+- 🛠️ Focused on improving problem-solving skills and building real-world full-stack applications.
 - 📧 Reach me here **km.marziul@gmail.com**
 
 ---
@@ -72,7 +72,7 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marziulrafi&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=marziulrafi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marziulrafi)
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=marziulrafi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />

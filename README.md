@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 
 - 🚀 Deep diving into Next.js, Prisma, and PostgreSQL.
 - 🐳 Exploring Docker and containerized development.
-- 🌐 Developing a *Blogging Platform* using Next.js, Node.js, Express, Prisma, PostgreSQL.
+- 🌐 Developing a *Blogging Platform* using Next.js, Node.js, Express, TypeScript, Prisma, PostgreSQL.
 - 🛠️ Focused on improving problem-solving skills and building real-world full-stack applications.
 - 📧 Reach me here **km.marziul@gmail.com**
 

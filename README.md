@@ -75,8 +75,8 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
 ## 📜 Certificates
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/Complete_Web_Development_kcrr3m.jpg" width="60%"><br><br>
-  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/Next_Level_AI-Driven_Software_Engineering_Bootcamp_skcpbi.jpg" width="60%">
+  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/v1786805089/Complete_Web_Development_kcrr3m.jpg" width="60%"><br><br>
+  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/v1786805088/Next_Level_AI-Driven_Software_Engineering_Bootcamp_skcpbi.jpg" width="60%">
 </p>
 
 ---

@@ -10,11 +10,11 @@
 
 I'm a passionate Full Stack Developer with a strong interest in building responsive web applications and solving real-world problems with technology.
 
-- 🚀 Deep diving into Next.js, Prisma, and PostgreSQL.
-- 🐳 Exploring Docker and containerized development.
-- 🌐 Developing a *Blogging Platform* using Next.js, Node.js, Express, TypeScript, Prisma, PostgreSQL.
-- 🛠️ Focused on improving problem-solving skills and building real-world full-stack applications.
-- 📧 Reach me here **km.marziul@gmail.com**
+* 🚀 Deep diving into Next.js, Prisma, and PostgreSQL.
+* 🐳 Exploring Docker and containerized development.
+* 🌐 Developing a *Blogging Platform* using Next.js, Node.js, Express, TypeScript, Prisma, PostgreSQL.
+* 🛠️ Focused on improving problem-solving skills and building real-world full-stack applications.
+* 📧 Reach me here **[km.marziul@gmail.com](mailto:km.marziul@gmail.com)**
 
 ---
 
@@ -50,7 +50,7 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/src/images/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -66,13 +66,23 @@ I'm a passionate Full Stack Developer with a strong interest in building respons
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marziulrafi\&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marziulrafi)
+
+---
+
+## 📜 Certificates
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/Complete_Web_Development_kcrr3m.jpg" width="60%"><br><br>
+  <img src="https://res.cloudinary.com/dopbnjduq/image/upload/Next_Level_AI-Driven_Software_Engineering_Bootcamp_skcpbi.jpg" width="60%">
+</p>
+
 ---
 
 <!--![marziulrafi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marziulrafi&theme=default&show_icons=true&hide_border=true&layout=compact) -->
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marziulrafi&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marziulrafi)
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=marziulrafi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
